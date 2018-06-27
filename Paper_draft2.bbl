@@ -1,0 +1,84 @@
+\begin{thebibliography}{15}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Berry and Browne(2005)}]{berry2005email}
+Berry, M.~W., Browne, M., 2005. Email surveillance using non-negative matrix
+  factorization. Computational \& Mathematical Organization Theory 11~(3),
+  249--264.
+
+\bibitem[{Blickle and Thiele(1995)}]{blickle1995mathematical}
+Blickle, T., Thiele, L., 1995. A mathematical analysis of tournament selection.
+  In: ICGA. Citeseer, pp. 9--16.
+
+\bibitem[{Fong et~al.(2004)Fong, Ng, Chung, Tu, Li, Sparks, and
+  Kotlyar}]{Fong2004}
+Fong, N., Ng, S., Chung, K.~H., Tu, Y., Li, Z., Sparks, B.~D., Kotlyar, L.~S.,
+  2004. A two level fractional factorial design to test the effect of oil sands
+  composition and process water chemistry on bitumen recovery from model
+  systems. The Canadian Journal of Chemical Engineering 82~(4), 782--793.
+
+\bibitem[{Gen and Cheng(2000)}]{gen2000genetic}
+Gen, M., Cheng, R., 2000. Genetic algorithms and engineering optimization.
+  Vol.~7. John Wiley \& Sons.
+
+\bibitem[{Kumar(2017)}]{kumar2017state}
+Kumar, S.~L., 2017. State of the art-intense review on artificial intelligence
+  systems application in process planning and manufacturing. Engineering
+  Applications of Artificial Intelligence 65, 294--329.
+
+\bibitem[{Masliyah et~al.(2004)Masliyah, Zhou, Xu, Czarnecki, and
+  Hamza}]{masliyah2004understanding}
+Masliyah, J., Zhou, Z.~J., Xu, Z., Czarnecki, J., Hamza, H., 2004.
+  Understanding water-based bitumen extraction from athabasca oil sands. The
+  Canadian Journal of Chemical Engineering 82~(4), 628--654.
+
+\bibitem[{Neidinger(2010)}]{neidinger2010introduction}
+Neidinger, R.~D., 2010. Introduction to automatic differentiation and matlab
+  object-oriented programming. SIAM review 52~(3), 545--563.
+
+\bibitem[{Sangdani et~al.(2018)Sangdani, Tavakolpour-Saleh, and
+  Lotfavar}]{sangdani2018genetic}
+Sangdani, M., Tavakolpour-Saleh, A., Lotfavar, A., 2018. Genetic
+  algorithm-based optimal computed torque control of a vision-based tracker
+  robot: Simulation and experiment. Engineering Applications of Artificial
+  Intelligence 67, 24--38.
+
+\bibitem[{Schmidt and Lipson(2009)}]{schmidt2009distilling}
+Schmidt, M., Lipson, H., 2009. Distilling free-form natural laws from
+  experimental data. science 324~(5923), 81--85.
+
+\bibitem[{Sushnigdha and Joshi(2017)}]{sushnigdha2017evolutionary}
+Sushnigdha, G., Joshi, A., 2017. Evolutionary method based integrated guidance
+  strategy for reentry vehicles. Engineering Applications of Artificial
+  Intelligence.
+
+\bibitem[{Tsoumakas and Katakis(2007)}]{tsoumakas2007multi}
+Tsoumakas, G., Katakis, I., 2007. Multi-label classification: An overview.
+  International Journal of Data Warehousing and Mining (IJDWM) 3~(3), 1--13.
+
+\bibitem[{Vladislavleva et~al.(2010)Vladislavleva, Veeramachaneni, Burland,
+  Parcon, and O'Reilly}]{vladislavleva2010knowledge}
+Vladislavleva, K., Veeramachaneni, K., Burland, M., Parcon, J., O'Reilly,
+  U.-M., 2010. Knowledge mining with genetic programming methods for variable
+  selection in flavor design. In: Proceedings of the 12th annual conference on
+  Genetic and evolutionary computation. ACM, pp. 941--948.
+
+\bibitem[{Weninger and Schuller(2012)}]{weninger2012optimization}
+Weninger, F., Schuller, B., 2012. Optimization and parallelization of monaural
+  source separation algorithms in the openblissart toolkit. Journal of Signal
+  Processing Systems 69~(3), 267--277.
+
+\bibitem[{Whitley(1994)}]{whitley1994genetic}
+Whitley, D., 1994. A genetic algorithm tutorial. Statistics and computing
+  4~(2), 65--85.
+
+\bibitem[{Zhang et~al.(2004)Zhang, Sawatzky, Wallace, London, and
+  Stanley}]{zhang2004artificial}
+Zhang, Q.~J., Sawatzky, R.~P., Wallace, E.~D., London, M.~J., Stanley, S.~J.,
+  2004. Artificial neural network modelling of oil sands extraction processes.
+  Journal of Environmental Engineering and Science 3~(S1), S99--S110.
+
+\end{thebibliography}
